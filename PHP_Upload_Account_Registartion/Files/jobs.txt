@@ -1,0 +1,4 @@
+1017,No Frills,20-01-2021,Etobicoke,14.25,416-416-6666
+1019,Driving School,01-02-2021,Downtown,19,473-400-6000
+1009,Kipling Mall,30-02-2021,Kipling,20,416-416-1800
+1002,York Mall,20-12-2020,York,17,416-414-1945
